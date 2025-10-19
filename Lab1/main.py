@@ -24,6 +24,7 @@ def main():
     print("----- Górne ograniczenie wyniku wynosi: 0 -----")
     print()
 
+
 if __name__ == "__main__":
     main()
     test_best_hyperparams()
