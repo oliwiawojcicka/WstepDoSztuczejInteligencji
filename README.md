@@ -7,8 +7,8 @@ Every folder includes a report with a description of the implemented method, exp
 
 ---
 
-## Lab 1: Genetic Algorithm
-## Lab 2: Minimax Algorithm
-## Lab 3: ID3 Algorithm and Preprocessing
-## Lab 4: Gradient Descent Algorithm
-## Lab 5: Neural Networks
+# Lab 1: Genetic Algorithm
+# Lab 2: Minimax Algorithm
+# Lab 3: ID3 Algorithm and Preprocessing
+# Lab 4: Gradient Descent Algorithm
+# Lab 5: Neural Networks
