@@ -94,7 +94,7 @@ def choose_move(state, depth: int, heuristic: Heuristic, rng: Optional[random.Ra
     for move in state.get_moves():
         next_state = state.make_move(move)
         value = minimax(
-            next_state, depth - 1, alpha, beta,
+            next_state, depth - 1, alpha, beta,  #głębokość odpowiada jednemu ruchowi
             next_state.get_current_player() == root_player,   #czy po ruchu gra nasz gracz
             root_player, heuristic
         )

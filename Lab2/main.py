@@ -1,4 +1,4 @@
-# main.py
+# main.ipynb
 from __future__ import annotations
 import random
 import statistics
@@ -105,3 +105,4 @@ if __name__ == "__main__":
 
     #przypadek trywialny
     stats_and_heatmap(depth_min=1, depth_max=1, size=4, runs=10)
+
